@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/003/848/460/small/techno-blue-background-free-vector.jpg) ;
+}
+.main{
+    align-self: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    border-color: grey;
+    border-style: solid;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNVzbu4fY8lMd3wrY9mUxCyp5Wgw42vI7jw&usqp=CAU);
+}
+h3{
+    -webkit-text-fill-color: white;
+}
+.Submit{
+    
+    margin-left: 60%;
+}
